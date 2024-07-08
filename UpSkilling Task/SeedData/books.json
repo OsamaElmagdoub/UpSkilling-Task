@@ -1,0 +1,80 @@
+[
+
+  {
+    "Name": "C Programming",
+    "Description": "Deeep lerning in c Language",
+    "Price": 200,
+    "Auther": "Stev",
+    "stock": 20,
+    "CategoryId": 1
+  },
+  {
+    "Name": "C1 Programming",
+    "Description": "Deeep lerning in c1 Language",
+    "Price": 200,
+    "Auther": "Stev",
+    "stock": 20,
+    "CategoryId": 1
+  },
+  {
+    "Name": "C2 Programming",
+    "Description": "Deeep lerning in c2 Language",
+    "Price": 200,
+    "Auther": "Stev",
+    "stock": 20,
+    "CategoryId": 1
+  },
+
+  {
+    "Name": "java Programming",
+    "Description": "Deeep lerning in java Language",
+    "Price": 150,
+    "Auther": "Ahmed",
+    "stock": 15,
+    "CategoryId": 2
+  },
+
+  {
+    "Name": "java1 Programming",
+    "Description": "Deeep lerning in java1 Language",
+    "Price": 150,
+    "Auther": "Ahmed",
+    "stock": 15,
+    "CategoryId": 2
+  },
+
+  {
+    "Name": "java2 Programming",
+    "Description": "Deeep lerning in java2 Language",
+    "Price": 150,
+    "Auther": "Ahmed",
+    "stock": 15,
+    "CategoryId": 2
+  },
+  {
+    "Name": "C# Programming",
+    "Description": "Deeep lerning in c sharp Language",
+    "Price": 250,
+    "Auther": "Abdo",
+    "stock": 30,
+    "CategoryId": 3
+  },
+  {
+    "Name": "C#1 Programming",
+    "Description": "Deeep lerning in c sharp1 Language",
+    "Price": 250,
+    "Auther": "Abdo",
+    "stock": 30,
+    "CategoryId": 3
+  },
+  {
+    "Name": "C#2 Programming",
+    "Description": "Deeep lerning in c sharp2 Language",
+    "Price": 250,
+    "Auther": "Abdo",
+    "stock": 30,
+    "CategoryId": 3
+  }
+
+
+]
